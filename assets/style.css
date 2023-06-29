@@ -59,7 +59,7 @@ h1 {
 
 .prof{
     font-size: 10px;
-    color: white;
+    color: #fefaf1;
     text-align: left;
     padding: 5px;
     display: block;
@@ -89,4 +89,10 @@ a {
     padding: 5px;
     color: #4bbde4;
 }
+
+main{
+    
+    margin-left: -10px;
+}
+
    
