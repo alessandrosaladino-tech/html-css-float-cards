@@ -36,11 +36,11 @@ h1 {
 
    .col {
     float: left;
-    margin: auto;
-    width: calc(100%/3);
+    width: calc(100% / 3 - 15px);
     background-color: black;
-    border-left: 15px solid white;
-    border-bottom: 15px solid white;
+    margin: 0 15px 15px 0;
+    border: 1px;
+    box-shadow: 5px 1px 8px 1px #80808096;
    }
 
    img{
@@ -92,7 +92,8 @@ a {
 
 main{
     
-    margin-left: -10px;
+    margin-right: -14px;
+    margin-left: 3px;
 }
 
    
