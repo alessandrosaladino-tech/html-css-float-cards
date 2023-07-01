@@ -5,7 +5,7 @@
 }
 
 body{
-    font-family: 'Belanosima', sans-serif;
+    font-family:'Fredoka', sans-serif;
 }
 
 
@@ -24,6 +24,7 @@ h1 {
 
 .paragraph{
     margin-bottom: 2rem;
+    padding-top: 35px;
 
 }
 
@@ -38,62 +39,63 @@ h1 {
     float: left;
     width: calc(100% / 3 - 15px);
     background-color: black;
-    margin: 0 15px 15px 0;
+    margin: 0 15px 35px 0;
     border: 1px;
     box-shadow: 5px 1px 8px 1px #80808096;
    }
 
    img{
-    width: 80px;
+    width: 84px;
     float: left;
    }
 
    body{
     margin: auto;
     max-width: 1170px;
-    width: 85%;
+    width: 75%;
     text-align: center;
    }
 
 
 
 .prof{
-    font-size: 10px;
+    font-size: 13px;
     color: #fefaf1;
     text-align: left;
-    padding: 5px;
     display: block;
-    padding-left: 5px;
+    padding-left: 8px;
+    padding-top: 5px;
    
 
 }
 
 .txtcard{
     margin-left: 85px;
-    padding-top: 8px;
 }
 
 .nomi{
-    font-size: small;
+    font-size: 15px;
     color: white;
     text-align: left;
-    padding: 5px;
-    display: block;
+    padding-top: 10px;
+    padding-left: 8px;
     
 }
 
 a {
     text-align: left;
-    font-size: 10px;
+    font-size: 13px;
     display: block;
-    padding: 5px;
+    padding-left: 8px;
+    padding-top: 5px;
     color: #4bbde4;
 }
 
 main{
     
-    margin-right: -14px;
-    margin-left: 3px;
+    margin-right: -13px;
+    margin-left: 4px;
+    padding-top: 20px;
 }
 
    
